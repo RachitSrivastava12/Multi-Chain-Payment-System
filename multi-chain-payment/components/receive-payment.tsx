@@ -1,8 +1,4 @@
 
-
-// ============================================
-// components/receive-payment.tsx - UPDATED
-// ============================================
 "use client"
 import { useState, useEffect } from "react"
 import {
