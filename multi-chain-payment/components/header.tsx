@@ -1,6 +1,4 @@
-// ============================================
-// components/header.tsx
-// ============================================
+
 "use client"
 import Link from "next/link"
 import { Coins, History, LogOut } from "lucide-react"
