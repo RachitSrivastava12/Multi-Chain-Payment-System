@@ -19,7 +19,7 @@
 // import { Loader2 } from "lucide-react"
 // import { useToast } from "@/hooks/use-toast"
 
-// const API = "http://localhost:4000/api/payments/send"
+// const API = "https://multi-chain-payment-system-1.onrender.com/api/payments/send"
 
 // export function SendPayment() {
 //   const { activeWallet, token } = useWallet()
@@ -160,7 +160,7 @@ import { useWallet } from "@/hooks/use-wallet"
 import { Loader2 } from "lucide-react"
 import { useToast } from "@/hooks/use-toast"
 
-const API = "http://localhost:4000/api/payments/send"
+const API = "https://multi-chain-payment-system-1.onrender.com/api/payments/send"
 
 export function SendPayment() {
   const { activeWallet, token } = useWallet()
