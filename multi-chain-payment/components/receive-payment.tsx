@@ -25,7 +25,7 @@ import { useWallet } from "@/hooks/use-wallet"
 import { useToast } from "@/hooks/use-toast"
 import { Copy, Check } from "lucide-react"
 
-const API = "http://localhost:4000/api"
+const API = "https://multi-chain-payment-system-1.onrender.com/api"
 
 export function ReceivePayment() {
   const { connectedWallets, username, token } = useWallet()
