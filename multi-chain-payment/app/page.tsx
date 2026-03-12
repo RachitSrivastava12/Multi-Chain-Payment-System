@@ -125,6 +125,7 @@ export default function Home() {
           </Card>
         </div>
       </main>
+      <div>adding a footwer</div>
     </div>
   )
 }
